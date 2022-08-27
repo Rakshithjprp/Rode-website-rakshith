@@ -8,4 +8,4 @@ Netlify
 
 ![plot](./images/thumbnail.png)
 
-[Paytm live-link](https://live-class-project-15-rj.netlify.app/)
+[Paytm live-link](https://rode-website-rj.netlify.app/)
