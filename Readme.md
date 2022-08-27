@@ -1,4 +1,4 @@
-**Rode Website recreated by Rakshith J**
+**RODE Website recreated by Rakshith J**
 
 ### Time taken finish : 8hrs
 
@@ -8,4 +8,4 @@ Netlify
 
 ![plot](./images/thumbnail.png)
 
-[Paytm live-link](https://rode-website-rj.netlify.app/)
+[RODE live-link](https://rode-website-rj.netlify.app/)
